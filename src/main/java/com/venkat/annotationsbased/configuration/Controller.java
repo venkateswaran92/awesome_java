@@ -1,4 +1,4 @@
-package com.venkat.aunitationBased.configuration;
+package com.venkat.annotationsbased.configuration;
 
 import info.macias.kaconf.Configurator;
 import info.macias.kaconf.ConfiguratorBuilder;
